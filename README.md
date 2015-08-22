@@ -4,7 +4,7 @@ Repository created for the submission of the course project for Getting and Clea
 # Overview: 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
 
-    (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+    ([http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones])
 
 # About the Raw Data:
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities:
