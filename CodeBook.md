@@ -1,5 +1,5 @@
 # Code Book
-Summary of data fields in tidydata.txt.
+Description of data fields in tidydata.txt.
 
 ##Description of the Data
 
@@ -25,7 +25,7 @@ The units given are g’s for the accelerometer and rad/sec for the gyro and g/s
 These signals were used to estimate variables of the feature vector for each pattern:
 ‘-XYZ’ is used to denote 3-axial signals in the X, Y and Z directions. They total 33 measurements including the 3 dimensions - the X,Y, and Z axes.
 
-####Activity Labels
+#####Activity Labels
 1. WALKING: subject was walking during the test
 2. WALKING_UPSTAIRS: subject was walking up a staircase during the test
 3. WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
