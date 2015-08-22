@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Course Project
-Repository created for the submission of the course project for Getting and Cleaning Data course,part of Data Science specialization.
+Repository created for the submission of the course project for Getting and Cleaning Data course, part of Data Science specialization.
 
 # Overview: 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
