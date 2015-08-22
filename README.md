@@ -50,6 +50,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 
 For a more detailed description of the processing performed to create the tidy data set refer to header and comments on run_activity.R script file, also in this repository.
+
 Refer to CodeBook file in this repository to find more detailed information about variables and observations on the tidy dataset.
 
 
