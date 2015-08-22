@@ -8,6 +8,7 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 # About the Raw Data:
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities:
+
                       1 WALKING
                       
                       2 WALKING_UPSTAIRS
@@ -32,6 +33,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
   - A 561-feature vector with time and frequency domain variables. 
   - Its activity label. 
   - An identifier of the subject who carried out the experiment.
+  
 ###Notes: 
 
   - Features are normalized and bounded within [-1,1].
