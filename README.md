@@ -4,7 +4,7 @@ Repository created for the submission of the course project for Getting and Clea
 # Overview: 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained: 
 
-    http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+    (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 # About the Raw Data:
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities:
@@ -39,6 +39,16 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
   - Features are normalized and bounded within [-1,1].
   - Each feature vector is a row on the text file.
  
+# About the Tidy Data:
+*The tidy data was obtained by merging both tables (training and test) in a single dataset and keeping only one those variables-columns- which reflect a mean ('mean()') or standard deviation ('std()').
+*Each activity observation was labeled using the descriptive activities names file (activity_labels.txt in raw data).
+*Then the variable names was appropriately labeled.
+*Finally a tidy data set with the average of each variable for each activity and each subject was created and saved as a tab-delimited file called tidydata.txt, which can also be found in this repository.
+
+For a more detailed description of the processing performed to create the tidy data set refer to header and comments on run_activity.R script file, also in this repository.
+Refer to CodeBook file in this repository to find more detailed information about variables and observations on the tidy dataset.
+
+
 
 #License:
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
