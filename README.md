@@ -41,9 +41,13 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
  
 # About the Tidy Data:
 *The tidy data was obtained by merging both tables (training and test) in a single dataset and keeping only one those variables-columns- which reflect a mean ('mean()') or standard deviation ('std()').
+
 *Each activity observation was labeled using the descriptive activities names file (activity_labels.txt in raw data).
-*Then the variable names was appropriately labeled.
+
+*Then the variable names were appropriately labeled.
+
 *Finally a tidy data set with the average of each variable for each activity and each subject was created and saved as a tab-delimited file called tidydata.txt, which can also be found in this repository.
+
 
 For a more detailed description of the processing performed to create the tidy data set refer to header and comments on run_activity.R script file, also in this repository.
 Refer to CodeBook file in this repository to find more detailed information about variables and observations on the tidy dataset.
