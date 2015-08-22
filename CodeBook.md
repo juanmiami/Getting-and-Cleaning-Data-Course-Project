@@ -1,4 +1,7 @@
-#Description of the Data
+# Code Book
+Summary of data fields in tidydata.txt.
+
+##Description of the Data
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals TimeAcc-XYZ and TimeGyro-XYZ. These time domain signals (prefix ‘Time’ to denote time) were captured at a constant rate of 50 Hz. and the acceleration signal was then separated into body and gravity acceleration signals (TimeBodyAcc-XYZ and TimeGravityAcc-XYZ) – both using a low pass Butterworth filter.
 
@@ -6,7 +9,7 @@ The body linear acceleration and angular velocity were derived in time to obtain
 
 A Fast Fourier Transform (FFT) was applied to some of these signals producing FreqBodyAcc-XYZ, FreqBodyAccJerk-XYZ, FreqBodyGyro-XYZ, FreqBodyAccJerkMag, FreqBodyGyroMag, FreqBodyGyroJerkMag. (Note the ‘Freq’ to indicate frequency domain signals).
 
-###Description of abbreviations of measurements
+#####Description of abbreviations of measurements
 1. Leading 'Time' or 'Freq' is based on time or frequency measurements.
 2. Body = related to body movement.
 3. Gravity = acceleration of gravity
@@ -22,7 +25,7 @@ The units given are g’s for the accelerometer and rad/sec for the gyro and g/s
 These signals were used to estimate variables of the feature vector for each pattern:
 ‘-XYZ’ is used to denote 3-axial signals in the X, Y and Z directions. They total 33 measurements including the 3 dimensions - the X,Y, and Z axes.
 
-#Activity Labels
+####Activity Labels
 1. WALKING: subject was walking during the test
 2. WALKING_UPSTAIRS: subject was walking up a staircase during the test
 3. WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
@@ -31,14 +34,14 @@ These signals were used to estimate variables of the feature vector for each pat
 6. LAYING: subject was laying down during the test
 
 
-##Identifiers - Observables
+###Identifiers - Observables
 - ActivityId - The type of activity performed when the corresponding measurements were taken
 - SubjectId  - The ID of the test subject
 
-## Others
+### Others
 - ActivityType - Activity description
 
-##Measurements
+###Measurements
 - TimeBodyAcc-Mean-X
 - TimeBodyAcc-Mean-Y
 - TimeBodyAcc-Mean-Z
