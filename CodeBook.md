@@ -46,75 +46,75 @@ These signals were used to estimate variables of the feature vector for each pat
 - TimeBodyAcc-StdDev-Y
 - TimeBodyAcc-StdDev-Z
 - TimeGravityAcc-Mean-X
-TimeGravityAcc-Mean-Y
-TimeGravityAcc-Mean-Z
-TimeGravityAcc-StdDev-X
-TimeGravityAcc-StdDev-Y
-TimeGravityAcc-StdDev-Z
-TimeBodyAccJerk-Mean-X
-TimeBodyAccJerk-Mean-Y
-TimeBodyAccJerk-Mean-Z
-TimeBodyAccJerk-StdDev-X
-TimeBodyAccJerk-StdDev-Y
-TimeBodyAccJerk-StdDev-Z
-TimeBodyGyro-Mean-X
-TimeBodyGyro-Mean-Y
-TimeBodyGyro-Mean-Z
-TimeBodyGyro-StdDev-X
-TimeBodyGyro-StdDev-Y
-TimeBodyGyro-StdDev-Z
-TimeBodyGyroJerk-Mean-X
-TimeBodyGyroJerk-Mean-Y
-TimeBodyGyroJerk-Mean-Z
-TimeBodyGyroJerk-StdDev-X
-TimeBodyGyroJerk-StdDev-Y
-TimeBodyGyroJerk-StdDev-Z
-TimeBodyAccMagnitude-Mean
-TimeBodyAccMagnitude-StdDev
-TimeGravityAccMagnitude-Mean
-TimeGravityAccMagnitude-StdDev
-TimeBodyAccJerkMagnitude-Mean
-TimeBodyAccJerkMagnitude-StdDev
-TimeBodyGyroMagnitude-Mean
-TimeBodyGyroMagnitude-StdDev
-TimeBodyGyroJerkMagnitude-Mean
-TimeBodyGyroJerkMagnitude-StdDev
-FreqBodyAcc-Mean-X
-FreqBodyAcc-Mean-Y
-FreqBodyAcc-Mean-Z
-FreqBodyAcc-StdDev-X
-FreqBodyAcc-StdDev-Y
-FreqBodyAcc-StdDev-Z
-FreqBodyAcc-MeanFreq-X
-FreqBodyAcc-MeanFreq-Y
-FreqBodyAcc-MeanFreq-Z
-FreqBodyAccJerk-Mean-X
-FreqBodyAccJerk-Mean-Y
-FreqBodyAccJerk-Mean-Z
-FreqBodyAccJerk-StdDev-X
-FreqBodyAccJerk-StdDev-Y
-FreqBodyAccJerk-StdDev-Z
-FreqBodyAccJerk-MeanFreq-X
-FreqBodyAccJerk-MeanFreq-Y
-FreqBodyAccJerk-MeanFreq-Z
-FreqBodyGyro-Mean-X
-FreqBodyGyro-Mean-Y
-FreqBodyGyro-Mean-Z
-FreqBodyGyro-StdDev-X
-FreqBodyGyro-StdDev-Y
-FreqBodyGyro-StdDev-Z
-FreqBodyGyro-MeanFreq-X
-FreqBodyGyro-MeanFreq-Y
-FreqBodyGyro-MeanFreq-Z
-FreqBodyAccMagnitude-Mean
-FreqBodyAccMagnitude-StdDev
-FreqBodyAccMagnitude-MeanFreq
-FreqBodyBodyAccJerkMagnitude-Mean
-FreqBodyBodyAccJerkMagnitude-StdDev
-FreqBodyBodyAccJerkMagnitude-MeanFreq
-FreqBodyBodyGyroMagnitude-Mean
-FreqBodyBodyGyroMagnitude-StdDev
-FreqBodyBodyGyroMagnitude-MeanFreq
-FreqBodyBodyGyroJerkMagnitude-Mean
-FreqBodyBodyGyroJerkMagnitude-StdDev
-FreqBodyBodyGyroJerkMagnitude-MeanFreq
+- TimeGravityAcc-Mean-Y
+- TimeGravityAcc-Mean-Z
+- TimeGravityAcc-StdDev-X
+- TimeGravityAcc-StdDev-Y
+- TimeGravityAcc-StdDev-Z
+- TimeBodyAccJerk-Mean-X
+- TimeBodyAccJerk-Mean-Y
+- TimeBodyAccJerk-Mean-Z
+- TimeBodyAccJerk-StdDev-X
+- TimeBodyAccJerk-StdDev-Y
+- TimeBodyAccJerk-StdDev-Z
+- TimeBodyGyro-Mean-X
+- TimeBodyGyro-Mean-Y
+- TimeBodyGyro-Mean-Z
+- TimeBodyGyro-StdDev-X
+- TimeBodyGyro-StdDev-Y
+- TimeBodyGyro-StdDev-Z
+- TimeBodyGyroJerk-Mean-X
+- TimeBodyGyroJerk-Mean-Y
+- TimeBodyGyroJerk-Mean-Z
+- TimeBodyGyroJerk-StdDev-X
+- TimeBodyGyroJerk-StdDev-Y
+- TimeBodyGyroJerk-StdDev-Z
+- TimeBodyAccMagnitude-Mean
+- TimeBodyAccMagnitude-StdDev
+- TimeGravityAccMagnitude-Mean
+- TimeGravityAccMagnitude-StdDev
+- TimeBodyAccJerkMagnitude-Mean
+- TimeBodyAccJerkMagnitude-StdDev
+- TimeBodyGyroMagnitude-Mean
+- TimeBodyGyroMagnitude-StdDev
+- TimeBodyGyroJerkMagnitude-Mean
+- TimeBodyGyroJerkMagnitude-StdDev
+- FreqBodyAcc-Mean-X
+- FreqBodyAcc-Mean-Y
+- FreqBodyAcc-Mean-Z
+- FreqBodyAcc-StdDev-X
+- FreqBodyAcc-StdDev-Y
+- FreqBodyAcc-StdDev-Z
+- FreqBodyAcc-MeanFreq-X
+- FreqBodyAcc-MeanFreq-Y
+- FreqBodyAcc-MeanFreq-Z
+- FreqBodyAccJerk-Mean-X
+- FreqBodyAccJerk-Mean-Y
+- FreqBodyAccJerk-Mean-Z
+- FreqBodyAccJerk-StdDev-X
+- FreqBodyAccJerk-StdDev-Y
+- FreqBodyAccJerk-StdDev-Z
+- FreqBodyAccJerk-MeanFreq-X
+- FreqBodyAccJerk-MeanFreq-Y
+- FreqBodyAccJerk-MeanFreq-Z
+- FreqBodyGyro-Mean-X
+- FreqBodyGyro-Mean-Y
+- FreqBodyGyro-Mean-Z
+- FreqBodyGyro-StdDev-X
+- FreqBodyGyro-StdDev-Y
+- FreqBodyGyro-StdDev-Z
+- FreqBodyGyro-MeanFreq-X
+- FreqBodyGyro-MeanFreq-Y
+- FreqBodyGyro-MeanFreq-Z
+- FreqBodyAccMagnitude-Mean
+- FreqBodyAccMagnitude-StdDev
+- FreqBodyAccMagnitude-MeanFreq
+- FreqBodyBodyAccJerkMagnitude-Mean
+- FreqBodyBodyAccJerkMagnitude-StdDev
+- FreqBodyBodyAccJerkMagnitude-MeanFreq
+- FreqBodyBodyGyroMagnitude-Mean
+- FreqBodyBodyGyroMagnitude-StdDev
+- FreqBodyBodyGyroMagnitude-MeanFreq
+- FreqBodyBodyGyroJerkMagnitude-Mean
+- FreqBodyBodyGyroJerkMagnitude-StdDev
+- FreqBodyBodyGyroJerkMagnitude-MeanFreq
