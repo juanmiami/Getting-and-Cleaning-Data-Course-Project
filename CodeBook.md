@@ -7,14 +7,23 @@ The body linear acceleration and angular velocity were derived in time to obtain
 A Fast Fourier Transform (FFT) was applied to some of these signals producing FreqBodyAcc-XYZ, FreqBodyAccJerk-XYZ, FreqBodyGyro-XYZ, FreqBodyAccJerkMag, FreqBodyGyroMag, FreqBodyGyroJerkMag. (Note the ‘Freq’ to indicate frequency domain signals).
 
 ###Description of abbreviations of measurements
+
 1.leading 'Time' or 'Freq' is based on time or frequency measurements.
+
 2.Body = related to body movement.
+
 3.Gravity = acceleration of gravity
+
 4.Acc = accelerometer measurement
+
 5.Gyro = gyroscopic measurements
+
 6.Jerk = sudden movement acceleration
+
 7.Magnitude = magnitude of movement
+
 8.Mean and StdDev are calculated for each subject for each activity for each mean and standard deviation measurements.
+
 
 The units given are g’s for the accelerometer and rad/sec for the gyro and g/sec and rad/sec/sec for the corresponding jerks.
 
@@ -39,14 +48,23 @@ ActivityType - Activity description
 
 ##Measurements
 TimeBodyAcc-Mean-X
+
 TimeBodyAcc-Mean-Y
+
 TimeBodyAcc-Mean-Z
+
 TimeBodyAcc-StdDev-X
+
 TimeBodyAcc-StdDev-Y
+
 TimeBodyAcc-StdDev-Z
+
 TimeGravityAcc-Mean-X
+
 TimeGravityAcc-Mean-Y
+
 TimeGravityAcc-Mean-Z
+
 TimeGravityAcc-StdDev-X
 TimeGravityAcc-StdDev-Y
 TimeGravityAcc-StdDev-Z
