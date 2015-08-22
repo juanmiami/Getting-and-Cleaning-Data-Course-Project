@@ -53,6 +53,11 @@ For a more detailed description of the processing performed to create the tidy d
 
 Refer to CodeBook file in this repository to find more detailed information about variables and observations on the tidy dataset.
 
+###To run the run_analysis script
+1. Download the script into your working directory.
+2. Download and extract the (UCI HAR Dataset)[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ]
+3. Copy the folder "UCI HAR Dataset" into your working directory.  
+4. Run the script using the following command : source("run_analysis.R")
 
 
 #License:
